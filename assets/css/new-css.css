@@ -1,38 +1,8 @@
-@font-face {
-  font-family: 'Averta';
-  src: url("../webfonts/averta/Averta-Regular.eot");
-  src: url("../webfonts/averta/Averta-Regular.eot?#iefix") format("embedded-opentype"),
-       url("../webfonts/averta/Averta-Regular.woff") format("woff"),
-       url("../webfonts/averta/Averta-Regular.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
-
-  @font-face {
-    font-family: 'Averta';
-    src: url("../webfonts/averta/Averta-Light.eot");
-    src: url("../webfonts/averta/Averta-Light.eot?#iefix") format("embedded-opentype"),
-         url("../webfonts/averta/Averta-Light.woff") format("woff"),
-         url("../webfonts/averta/Averta-Light.ttf") format("truetype");
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-  font-family: 'Revalo';
-  src: url("../webfonts/averta/RevaloModernBold.eot");
-  src: url("../webfonts/averta/RevaloModernBold.eot?#iefix") format("embedded-opentype"),
-       url("../webfonts/averta/RevaloModernBold.ttf") format("truetype");
-  font-weight: 300;
-  font-style: normal;
-}
-
-
 /*           Font Smoothing      */
 body, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, .btn, .btn-simple, a, .td-name, td {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: 'Averta','Helvetica Neue','Open Sans',Arial,sans-serif;
+  font-family: 'Open Sans',Arial,sans-serif;
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
